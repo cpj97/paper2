@@ -1,0 +1,12 @@
+numpy>=2.1.0
+pandas>=2.2.3
+pyarrow>=18.0.0
+matplotlib>=3.9.0
+geopandas>=1.0.1
+shapely>=2.0.6
+pyproj>=3.7.0
+pyogrio>=0.10.0
+earthengine-api>=1.6.0
+geemap>=0.35.0
+ipykernel>=6.29.5
+jupyterlab>=4.4.0

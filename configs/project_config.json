@@ -1,0 +1,16 @@
+{
+  "project_name": "geospatial_causal_workflow",
+  "created_from_notebook": "00_project_setup.ipynb",
+  "project_root": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2",
+  "data_dirs": {
+    "raw": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\raw",
+    "intermediate": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate",
+    "processed": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\processed"
+  },
+  "output_dirs": {
+    "figures": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\figures",
+    "maps": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\maps",
+    "tables": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\tables"
+  },
+  "notes": "Notebook 01 now includes Google Earth Engine extraction for deforestation and grid geometry."
+}
