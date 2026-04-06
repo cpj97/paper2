@@ -1,2 +1,6 @@
-# Ignore .venv
+# Ignore 
 .venv/
+data/
+logs/
+configs/
+outputs/maps/01_interactive_yearly_loss_map_dropdown.html

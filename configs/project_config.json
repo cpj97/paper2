@@ -12,5 +12,5 @@
     "maps": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\maps",
     "tables": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\tables"
   },
-  "notes": "Notebook 01 now includes Google Earth Engine extraction for deforestation and grid geometry."
+  "gee_project": "ee-cpedrazaj97"
 }

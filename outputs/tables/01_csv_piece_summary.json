@@ -1,0 +1,1378 @@
+[
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 0,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 1,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 2,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 3,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 4,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 5,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 6,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 7,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 8,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 9,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 10,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 11,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 12,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 13,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 14,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 4,
+    "kind": "base",
+    "chunk_id": 15,
+    "value_cols": [
+      "base_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 0,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 1,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 2,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 3,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 4,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 5,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 6,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 7,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 8,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 9,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 10,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 11,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 12,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 13,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 14,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 15,
+    "value_cols": [
+      "loss_2001_m2",
+      "loss_2002_m2",
+      "loss_2003_m2",
+      "loss_2004_m2",
+      "loss_2005_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 0,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 1,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 2,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 3,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 4,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 5,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 6,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 7,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 8,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 9,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 10,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 11,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 12,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 13,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 14,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 15,
+    "value_cols": [
+      "loss_2006_m2",
+      "loss_2007_m2",
+      "loss_2008_m2",
+      "loss_2009_m2",
+      "loss_2010_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 0,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 1,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 2,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 3,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 4,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 5,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 6,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 7,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 8,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 9,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 10,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 11,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 12,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 13,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 14,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 15,
+    "value_cols": [
+      "loss_2011_m2",
+      "loss_2012_m2",
+      "loss_2013_m2",
+      "loss_2014_m2",
+      "loss_2015_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 0,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 1,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 2,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 3,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 4,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 5,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 6,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 7,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 8,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 9,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 10,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 11,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 12,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 13,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 14,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 15,
+    "value_cols": [
+      "loss_2016_m2",
+      "loss_2017_m2",
+      "loss_2018_m2",
+      "loss_2019_m2",
+      "loss_2020_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk00.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 0,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk01.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 1,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk02.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 2,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk03.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 3,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk04.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 4,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk05.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 5,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk06.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 6,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk07.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 7,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk08.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 8,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk09.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 9,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk10.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 10,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk11.csv",
+    "n_rows": 943,
+    "n_unique_ids": 943,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 11,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk12.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 12,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk13.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 13,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk14.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 14,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  },
+  {
+    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk15.csv",
+    "n_rows": 942,
+    "n_unique_ids": 942,
+    "n_cols": 8,
+    "kind": "loss",
+    "chunk_id": 15,
+    "value_cols": [
+      "loss_2021_m2",
+      "loss_2022_m2",
+      "loss_2023_m2",
+      "loss_2024_m2",
+      "loss_2025_m2"
+    ]
+  }
+]
