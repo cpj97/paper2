@@ -1,0 +1,22 @@
+{
+  "n_panel_rows": 377100,
+  "n_cells": 15084,
+  "n_ever_treated_cells": 4997,
+  "n_never_treated_cells": 10087,
+  "share_ever_treated_cells": 0.3312781755502519,
+  "n_treated_rows": 87249,
+  "first_cohort_year": 1938,
+  "last_cohort_year": 2025,
+  "n_cells_treated_before_panel_start": 2328,
+  "primary_treatment_key": "protected_area",
+  "panel_input_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\panel_raw_long_0p080.parquet",
+  "grid_input_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\grid_geometry_0p080.geojson",
+  "departamento_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\raw\\boundaries\\departamentos\\Departamentos_Diciembre_2025_shp\\Depto.shp",
+  "loss_year_for_map": 2024,
+  "wdpa_enabled": true,
+  "wdpa_yearly_cache_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\wdpa_colombia_yearly_snapshots.geojson",
+  "wdpa_first_snapshot_year": 2017,
+  "wdpa_latest_snapshot_year": 2025,
+  "wdpa_timing_method": "yearly_snapshots_with_baseline_status_backfill",
+  "wdpa_status_year_column_used": "STATUS_YR"
+}

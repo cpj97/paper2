@@ -1,0 +1,122 @@
+\documentclass[12pt]{article}
+
+\newif\ifhasenumitem
+\newif\ifhascleveref
+\newif\ifhasbiblatex
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{setspace}
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\IfFileExists{booktabs.sty}{\usepackage{booktabs}}{}
+\usepackage{array}
+\IfFileExists{threeparttable.sty}{\usepackage{threeparttable}}{}
+\IfFileExists{longtable.sty}{\usepackage{longtable}}{}
+\IfFileExists{tabularx.sty}{\usepackage{tabularx}}{}
+\usepackage{graphicx}
+\IfFileExists{subcaption.sty}{\usepackage{subcaption}}{}
+\usepackage{float}
+\IfFileExists{pdflscape.sty}{\usepackage{pdflscape}}{}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\IfFileExists{mathtools.sty}{\usepackage{mathtools}}{}
+\IfFileExists{bm.sty}{\usepackage{bm}}{\newcommand{\bm}[1]{\boldsymbol{#1}}}
+\IfFileExists{siunitx.sty}{\usepackage{siunitx}}{}
+\usepackage{xcolor}
+\IfFileExists{enumitem.sty}{\usepackage{enumitem}\hasenumitemtrue}{\hasenumitemfalse}
+\IfFileExists{csquotes.sty}{\usepackage{csquotes}}{\newcommand{\enquote}[1]{``#1''}}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\IfFileExists{cleveref.sty}{
+    \usepackage[capitalise,nameinlink]{cleveref}
+    \hasclevereftrue
+}{
+    \hasclevereffalse
+    \newcommand{\cref}[1]{\ref{#1}}
+    \newcommand{\Cref}[1]{\ref{#1}}
+}
+\IfFileExists{biblatex.sty}{
+    \usepackage[
+        backend=biber,
+        style=authoryear,
+        maxcitenames=2,
+        maxbibnames=99,
+        uniquename=false
+    ]{biblatex}
+    \addbibresource{references/zotero.bib}
+    \hasbiblatextrue
+}{
+    \hasbiblatexfalse
+    \newcommand{\printbibliography}{%
+        \section*{References}
+        Bibliography package not available in this TeX installation. Export Zotero references to
+        \texttt{paper/references/zotero.bib} and install \texttt{biblatex} to render the bibliography here.
+    }
+}
+\graphicspath{{figures/}{../outputs/figures/}{../outputs/maps/}}
+
+\onehalfspacing
+
+\ifhasenumitem
+    \setlist[itemize]{noitemsep,topsep=4pt}
+    \setlist[enumerate]{noitemsep,topsep=4pt}
+\fi
+
+\newcommand{\sym}[1]{\rlap{#1}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+\newcommand{\1}{\mathbf{1}}
+\newcommand{\cell}{i}
+\newcommand{\year}{t}
+\newcommand{\treatyear}{G}
+\newcommand{\outcome}{Y}
+\newcommand{\controls}{X}
+\newcommand{\safeincludegraphics}[2][\linewidth]{%
+    \IfFileExists{#2}{%
+        \includegraphics[width=#1]{#2}%
+    }{%
+        \fbox{%
+            \parbox[c][0.22\textheight][c]{0.9\linewidth}{%
+                \centering
+                Figure file not found.\\[0.4em]
+                \texttt{\detokenize{#2}}\\[0.4em]
+                Re-run the analysis pipeline or copy the final figure into \texttt{paper/figures/}.%
+            }%
+        }%
+    }%
+}
+
+\title{Working Title for Paper 2}
+\author{Author Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\input{sections/00_abstract}
+
+\noindent\textbf{Keywords:} protected areas; land titling; deforestation; Colombia; difference-in-differences
+
+\newpage
+\tableofcontents
+\newpage
+
+\input{sections/01_introduction}
+\input{sections/02_background_literature}
+\input{sections/03_data_and_measurement}
+\input{sections/04_empirical_strategy}
+\input{sections/05_results}
+\input{sections/06_mechanisms_and_robustness}
+\input{sections/07_conclusion}
+
+\appendix
+\input{sections/08_appendix}
+
+\newpage
+\printbibliography
+
+\end{document}

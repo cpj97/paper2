@@ -1,0 +1,12 @@
+mapping_name,mapping_family,support_name,aggregation,weight_column,treated_indicator_template,output_scale,description
+any_treated_neighbor_radius_25km,any_treated_neighbor_within_radius,radius_25km,max,binary_weight,treated_it_{treatment_key},binary,Equals one if any neighbor within 25 km is treated in year t.
+share_treated_neighbors_radius_25km,share_treated_neighbors,radius_25km,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of neighbors within 25 km that are treated in year t.
+any_treated_neighbor_radius_50km,any_treated_neighbor_within_radius,radius_50km,max,binary_weight,treated_it_{treatment_key},binary,Equals one if any neighbor within 50 km is treated in year t.
+share_treated_neighbors_radius_50km,share_treated_neighbors,radius_50km,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of neighbors within 50 km that are treated in year t.
+share_treated_neighbors_knn_k04,share_treated_neighbors,knn_k04,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 4 nearest neighbors that are treated in year t.
+share_treated_neighbors_knn_k08,share_treated_neighbors,knn_k08,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 8 nearest neighbors that are treated in year t.
+share_treated_neighbors_knn_k16,share_treated_neighbors,knn_k16,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 16 nearest neighbors that are treated in year t.
+weighted_exposure_invdist_knn_k08_p1p0,inverse_distance_weighted_exposure,invdist_knn_k08_p1p0,weighted_mean,weight,treated_it_{treatment_key},"[0,1]",Inverse-distance exposure over knn_k08 with power=1 and row-standardized weights.
+weighted_exposure_invdist_knn_k16_p1p0,inverse_distance_weighted_exposure,invdist_knn_k16_p1p0,weighted_mean,weight,treated_it_{treatment_key},"[0,1]",Inverse-distance exposure over knn_k16 with power=1 and row-standardized weights.
+ring_share_treated_ring_0_25km,ring_based_exposure,ring_0_25km,mean,binary_weight,treated_it_{treatment_key},"[0,1]","Share of treated neighbors with distance in (0, 25] km in year t."
+ring_share_treated_ring_25_50km,ring_based_exposure,ring_25_50km,mean,binary_weight,treated_it_{treatment_key},"[0,1]","Share of treated neighbors with distance in (25, 50] km in year t."

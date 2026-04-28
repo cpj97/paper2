@@ -1,0 +1,67 @@
+\section{Empirical Strategy}
+
+\subsection{Treatment Timing Notation}
+
+Let $\treatyear_{\cell}^{m}$ denote the first year in which grid cell $\cell$ becomes treated under treatment type $m \in \{\text{protected area}, \text{Afro}, \text{Indigenous}, \text{Campesino}\}$. Define the absorbing treatment indicator as
+\begin{equation}
+    D_{\cell \year}^{m} = \1\{\year \geq \treatyear_{\cell}^{m}\},
+\end{equation}
+with $D_{\cell \year}^{m} = 0$ for cells never treated under layer $m$.
+
+If you need to describe the spatial assignment explicitly, a clean notation is
+\begin{equation}
+    \omega_{\cell g} = \frac{\text{Area}(C_{\cell} \cap P_{g})}{\text{Area}(C_{\cell})},
+\end{equation}
+where $C_{\cell}$ is grid cell $\cell$ and $P_{g}$ is polygon $g$. A cell is treated when $\omega_{\cell g}$ satisfies the overlap rule used in the data construction.
+
+\subsection{Baseline Two-Way Fixed Effects Specification}
+
+A compact baseline specification is
+\begin{equation}
+    \outcome_{\cell \year} = \alpha_{\cell} + \lambda_{\year} + \beta D_{\cell \year}^{m} + \controls_{\cell \year}'\gamma + \varepsilon_{\cell \year},
+\end{equation}
+where $\alpha_{\cell}$ are grid-cell fixed effects and $\lambda_{\year}$ are year fixed effects.
+
+If you include no time-varying controls, say so explicitly and justify it.
+
+\subsection{Event-Study Specification}
+
+Because treatment is staggered, you will likely want an event-study graph and a specification of the form
+\begin{equation}
+    \outcome_{\cell \year} = \alpha_{\cell} + \lambda_{\year}
+    + \sum_{k \neq -1} \beta_{k}\,\1\{\year - \treatyear_{\cell}^{m} = k\}
+    + \controls_{\cell \year}'\gamma
+    + \varepsilon_{\cell \year}.
+\end{equation}
+
+This section should explain:
+
+\begin{itemize}
+    \item the omitted event-time category,
+    \item the estimator you use for staggered adoption,
+    \item how never-treated and already-treated units enter the comparison,
+    \item whether you trim extreme leads and lags.
+\end{itemize}
+
+\subsection{Identification Concerns}
+
+Write down the core threats:
+
+\begin{itemize}
+    \item non-random placement of protected areas or titles,
+    \item pre-trends,
+    \item endogenous timing,
+    \item spillovers or leakage,
+    \item differential measurement error across treatment types.
+\end{itemize}
+
+\subsection{Standard Errors and Inference}
+
+Decide and document:
+
+\begin{itemize}
+    \item clustering level,
+    \item any spatial correction,
+    \item weighting choice,
+    \item treatment of serial correlation.
+\end{itemize}

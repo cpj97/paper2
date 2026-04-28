@@ -1,0 +1,76 @@
+\section{Data and Measurement}
+
+\subsection{Unit of Analysis}
+
+The unit of analysis is a grid cell by year panel. Explain:
+
+\begin{itemize}
+    \item grid resolution,
+    \item time span,
+    \item spatial coverage,
+    \item the forest-loss outcome construction.
+\end{itemize}
+
+\subsection{Treatment Construction}
+
+Define the treatment layers clearly:
+
+\begin{itemize}
+    \item protected areas from WDPA yearly snapshots,
+    \item Afro titles,
+    \item Indigenous titles,
+    \item Campesino reserves,
+    \item any combined land-title treatment if used.
+\end{itemize}
+
+Important details to document:
+
+\begin{itemize}
+    \item data source and raw file provenance,
+    \item geometry cleaning choices,
+    \item overlap rule used to mark a cell as treated,
+    \item how first-treatment years are assigned,
+    \item how pre-panel treatment is handled,
+    \item whether treatment status is absorbing by construction.
+\end{itemize}
+
+\subsection{Descriptive Patterns}
+
+This is a natural place to insert the graphs generated in the pipeline.
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[0.85\textwidth]{02_wdpa_area_by_year.png}
+    \caption{Protected area extent over time.}
+    \label{fig:wdpa-area-over-time}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[0.85\textwidth]{02_land_title_area_by_year.png}
+    \caption{Cumulative land-titled area over time, overall and by title type.}
+    \label{fig:land-title-area-over-time}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[0.85\textwidth]{02_treatment_type_grid_cells.png}
+    \caption{Treated grid cells by treatment type.}
+    \label{fig:treatment-type-cells}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \safeincludegraphics[0.90\textwidth]{02_titling_grid_cells_over_time.png}
+    \caption{New and cumulative treated grid cells over time for land-titling interventions.}
+    \label{fig:titling-grid-cells-over-time}
+\end{figure}
+
+You will probably also want a summary table with:
+
+\begin{itemize}
+    \item number of treated cells by layer,
+    \item first and last treatment year by layer,
+    \item mean overlap share,
+    \item number treated before the panel starts.
+\end{itemize}

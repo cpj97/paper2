@@ -1,6 +1,12 @@
-# Ignore 
+# Local environments and caches
 .venv/
+__pycache__/
+*.py[cod]
+
+# Local/generated project artifacts
 data/
 logs/
 configs/
-outputs/maps/01_interactive_yearly_loss_map_dropdown.html
+
+# Large generated map exports
+outputs/maps/*.html
