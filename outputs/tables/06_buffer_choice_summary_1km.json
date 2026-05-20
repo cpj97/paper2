@@ -1,0 +1,34 @@
+{
+  "run_tag": "1km",
+  "treatment_key": "protected_area",
+  "start_year": 2001,
+  "end_year": null,
+  "rings_km": [
+    [
+      0,
+      5
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      10,
+      25
+    ],
+    [
+      25,
+      50
+    ]
+  ],
+  "candidate_buffers_km": [
+    10,
+    25,
+    50
+  ],
+  "chosen_buffer_km": 25,
+  "reference_distance_km": 50,
+  "exposure_panel_path": "c:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\06_nearest_treated_exposure_1km.parquet",
+  "ring_diagnostic_path": "c:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\tables\\06_ring_ht_hajek_diagnostics_1km.csv",
+  "interpretation": "Chosen buffer is a design choice to be validated in notebook 07; the default 25km buffer is conservative while avoiding a 50km-only donor pool unless diagnostics require it."
+}

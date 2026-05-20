@@ -12,5 +12,6 @@
     "maps": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\maps",
     "tables": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\outputs\\tables"
   },
-  "gee_project": "ee-cpedrazaj97"
+  "gee_project": "ee-cpedrazaj97",
+  "notes": "Notebooks 01-03 cover panel construction, treatment timing, and spatial structure; notebook 03 requires scipy for neighbor search."
 }

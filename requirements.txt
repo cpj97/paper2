@@ -11,3 +11,6 @@ earthengine-api>=1.6.0
 geemap>=0.35.0
 ipykernel>=6.29.5
 jupyterlab>=4.4.0
+scikit-learn>=1.6.0
+diff-diff>=3.3.2
+csdid>=0.2.9

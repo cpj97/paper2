@@ -1,8 +1,8 @@
 [
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk00.csv",
+    "n_rows": 72529,
+    "n_unique_ids": 72529,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 0,
@@ -11,9 +11,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk01.csv",
+    "n_rows": 73002,
+    "n_unique_ids": 73002,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 1,
@@ -22,9 +22,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk02.csv",
+    "n_rows": 72320,
+    "n_unique_ids": 72320,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 2,
@@ -33,9 +33,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk03.csv",
+    "n_rows": 72734,
+    "n_unique_ids": 72734,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 3,
@@ -44,9 +44,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk04.csv",
+    "n_rows": 72300,
+    "n_unique_ids": 72300,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 4,
@@ -55,9 +55,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk05.csv",
+    "n_rows": 72431,
+    "n_unique_ids": 72431,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 5,
@@ -66,9 +66,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk06.csv",
+    "n_rows": 72697,
+    "n_unique_ids": 72697,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 6,
@@ -77,9 +77,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk07.csv",
+    "n_rows": 72156,
+    "n_unique_ids": 72156,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 7,
@@ -88,9 +88,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk08.csv",
+    "n_rows": 73032,
+    "n_unique_ids": 73032,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 8,
@@ -99,9 +99,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 9,
@@ -110,9 +110,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk10.csv",
+    "n_rows": 71962,
+    "n_unique_ids": 71962,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 10,
@@ -121,9 +121,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk11.csv",
+    "n_rows": 72701,
+    "n_unique_ids": 72701,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 11,
@@ -132,9 +132,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk12.csv",
+    "n_rows": 72326,
+    "n_unique_ids": 72326,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 12,
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk13.csv",
+    "n_rows": 72334,
+    "n_unique_ids": 72334,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 13,
@@ -154,9 +154,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk14.csv",
+    "n_rows": 72234,
+    "n_unique_ids": 72234,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 14,
@@ -165,9 +165,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_base_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_base_chunk15.csv",
+    "n_rows": 72736,
+    "n_unique_ids": 72736,
     "n_cols": 4,
     "kind": "base",
     "chunk_id": 15,
@@ -176,9 +176,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk00.csv",
+    "n_rows": 72529,
+    "n_unique_ids": 72529,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 0,
@@ -191,9 +191,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk01.csv",
+    "n_rows": 72392,
+    "n_unique_ids": 72392,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 1,
@@ -206,9 +206,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk02.csv",
+    "n_rows": 71965,
+    "n_unique_ids": 71965,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 2,
@@ -221,9 +221,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk03.csv",
+    "n_rows": 72544,
+    "n_unique_ids": 72544,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 3,
@@ -236,9 +236,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk04.csv",
+    "n_rows": 72300,
+    "n_unique_ids": 72300,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 4,
@@ -251,9 +251,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk05.csv",
+    "n_rows": 72415,
+    "n_unique_ids": 72415,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 5,
@@ -266,9 +266,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk06.csv",
+    "n_rows": 72448,
+    "n_unique_ids": 72448,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 6,
@@ -281,9 +281,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk07.csv",
+    "n_rows": 72156,
+    "n_unique_ids": 72156,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 7,
@@ -296,9 +296,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk08.csv",
+    "n_rows": 73032,
+    "n_unique_ids": 73032,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 8,
@@ -311,9 +311,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 9,
@@ -326,9 +326,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk10.csv",
+    "n_rows": 72645,
+    "n_unique_ids": 72645,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 10,
@@ -341,9 +341,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk11.csv",
+    "n_rows": 72515,
+    "n_unique_ids": 72515,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 11,
@@ -356,9 +356,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk12.csv",
+    "n_rows": 72640,
+    "n_unique_ids": 72640,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 12,
@@ -371,9 +371,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk13.csv",
+    "n_rows": 72334,
+    "n_unique_ids": 72334,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 13,
@@ -386,9 +386,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk14.csv",
+    "n_rows": 72234,
+    "n_unique_ids": 72234,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 14,
@@ -401,9 +401,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2001_2005_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2001_2005_chunk15.csv",
+    "n_rows": 72253,
+    "n_unique_ids": 72253,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 15,
@@ -416,9 +416,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk00.csv",
+    "n_rows": 72527,
+    "n_unique_ids": 72527,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 0,
@@ -431,9 +431,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk01.csv",
+    "n_rows": 72392,
+    "n_unique_ids": 72392,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 1,
@@ -446,9 +446,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk02.csv",
+    "n_rows": 72320,
+    "n_unique_ids": 72320,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 2,
@@ -461,9 +461,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk03.csv",
+    "n_rows": 72544,
+    "n_unique_ids": 72544,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 3,
@@ -476,9 +476,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk04.csv",
+    "n_rows": 72811,
+    "n_unique_ids": 72811,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 4,
@@ -491,9 +491,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk05.csv",
+    "n_rows": 72431,
+    "n_unique_ids": 72431,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 5,
@@ -506,9 +506,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk06.csv",
+    "n_rows": 72697,
+    "n_unique_ids": 72697,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 6,
@@ -521,9 +521,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk07.csv",
+    "n_rows": 72647,
+    "n_unique_ids": 72647,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 7,
@@ -536,9 +536,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk08.csv",
+    "n_rows": 72852,
+    "n_unique_ids": 72852,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 8,
@@ -551,9 +551,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 9,
@@ -566,9 +566,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk10.csv",
+    "n_rows": 72645,
+    "n_unique_ids": 72645,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 10,
@@ -581,9 +581,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk11.csv",
+    "n_rows": 72515,
+    "n_unique_ids": 72515,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 11,
@@ -596,9 +596,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk12.csv",
+    "n_rows": 72640,
+    "n_unique_ids": 72640,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 12,
@@ -611,9 +611,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk13.csv",
+    "n_rows": 72006,
+    "n_unique_ids": 72006,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 13,
@@ -626,9 +626,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk14.csv",
+    "n_rows": 72947,
+    "n_unique_ids": 72947,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 14,
@@ -641,9 +641,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2006_2010_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2006_2010_chunk15.csv",
+    "n_rows": 72736,
+    "n_unique_ids": 72736,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 15,
@@ -656,9 +656,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk00.csv",
+    "n_rows": 72527,
+    "n_unique_ids": 72527,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 0,
@@ -671,9 +671,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk01.csv",
+    "n_rows": 73002,
+    "n_unique_ids": 73002,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 1,
@@ -686,9 +686,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk02.csv",
+    "n_rows": 72320,
+    "n_unique_ids": 72320,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 2,
@@ -701,9 +701,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk03.csv",
+    "n_rows": 72544,
+    "n_unique_ids": 72544,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 3,
@@ -716,9 +716,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk04.csv",
+    "n_rows": 72811,
+    "n_unique_ids": 72811,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 4,
@@ -731,9 +731,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk05.csv",
+    "n_rows": 72431,
+    "n_unique_ids": 72431,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 5,
@@ -746,9 +746,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk06.csv",
+    "n_rows": 72697,
+    "n_unique_ids": 72697,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 6,
@@ -761,9 +761,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk07.csv",
+    "n_rows": 72647,
+    "n_unique_ids": 72647,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 7,
@@ -776,9 +776,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk08.csv",
+    "n_rows": 72852,
+    "n_unique_ids": 72852,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 8,
@@ -791,9 +791,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 9,
@@ -806,9 +806,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk10.csv",
+    "n_rows": 71962,
+    "n_unique_ids": 71962,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 10,
@@ -821,9 +821,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk11.csv",
+    "n_rows": 72701,
+    "n_unique_ids": 72701,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 11,
@@ -836,9 +836,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk12.csv",
+    "n_rows": 72326,
+    "n_unique_ids": 72326,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 12,
@@ -851,9 +851,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk13.csv",
+    "n_rows": 72006,
+    "n_unique_ids": 72006,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 13,
@@ -866,9 +866,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk14.csv",
+    "n_rows": 72234,
+    "n_unique_ids": 72234,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 14,
@@ -881,9 +881,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2011_2015_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2011_2015_chunk15.csv",
+    "n_rows": 72736,
+    "n_unique_ids": 72736,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 15,
@@ -896,9 +896,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk00.csv",
+    "n_rows": 72529,
+    "n_unique_ids": 72529,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 0,
@@ -911,9 +911,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk01.csv",
+    "n_rows": 72392,
+    "n_unique_ids": 72392,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 1,
@@ -926,9 +926,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk02.csv",
+    "n_rows": 71965,
+    "n_unique_ids": 71965,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 2,
@@ -941,9 +941,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk03.csv",
+    "n_rows": 72734,
+    "n_unique_ids": 72734,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 3,
@@ -956,9 +956,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk04.csv",
+    "n_rows": 72811,
+    "n_unique_ids": 72811,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 4,
@@ -971,9 +971,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk05.csv",
+    "n_rows": 72431,
+    "n_unique_ids": 72431,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 5,
@@ -986,9 +986,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk06.csv",
+    "n_rows": 72697,
+    "n_unique_ids": 72697,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 6,
@@ -1001,9 +1001,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk07.csv",
+    "n_rows": 72156,
+    "n_unique_ids": 72156,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 7,
@@ -1016,9 +1016,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk08.csv",
+    "n_rows": 73032,
+    "n_unique_ids": 73032,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 8,
@@ -1031,9 +1031,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 9,
@@ -1046,9 +1046,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk10.csv",
+    "n_rows": 72645,
+    "n_unique_ids": 72645,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 10,
@@ -1061,9 +1061,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk11.csv",
+    "n_rows": 72515,
+    "n_unique_ids": 72515,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 11,
@@ -1076,9 +1076,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk12.csv",
+    "n_rows": 72326,
+    "n_unique_ids": 72326,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 12,
@@ -1091,9 +1091,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk13.csv",
+    "n_rows": 72006,
+    "n_unique_ids": 72006,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 13,
@@ -1106,9 +1106,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk14.csv",
+    "n_rows": 72234,
+    "n_unique_ids": 72234,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 14,
@@ -1121,9 +1121,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2016_2020_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2016_2020_chunk15.csv",
+    "n_rows": 72736,
+    "n_unique_ids": 72736,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 15,
@@ -1136,9 +1136,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk00.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk00.csv",
+    "n_rows": 72529,
+    "n_unique_ids": 72529,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 0,
@@ -1151,9 +1151,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk01.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk01.csv",
+    "n_rows": 73002,
+    "n_unique_ids": 73002,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 1,
@@ -1166,9 +1166,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk02.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk02.csv",
+    "n_rows": 71965,
+    "n_unique_ids": 71965,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 2,
@@ -1181,9 +1181,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk03.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk03.csv",
+    "n_rows": 72734,
+    "n_unique_ids": 72734,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 3,
@@ -1196,9 +1196,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk04.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk04.csv",
+    "n_rows": 72300,
+    "n_unique_ids": 72300,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 4,
@@ -1211,9 +1211,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk05.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk05.csv",
+    "n_rows": 72415,
+    "n_unique_ids": 72415,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 5,
@@ -1226,9 +1226,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk06.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk06.csv",
+    "n_rows": 72697,
+    "n_unique_ids": 72697,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 6,
@@ -1241,9 +1241,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk07.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk07.csv",
+    "n_rows": 72647,
+    "n_unique_ids": 72647,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 7,
@@ -1256,9 +1256,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk08.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk08.csv",
+    "n_rows": 72852,
+    "n_unique_ids": 72852,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 8,
@@ -1271,9 +1271,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk09.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk09.csv",
+    "n_rows": 72664,
+    "n_unique_ids": 72664,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 9,
@@ -1286,9 +1286,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk10.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk10.csv",
+    "n_rows": 72645,
+    "n_unique_ids": 72645,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 10,
@@ -1301,9 +1301,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk11.csv",
-    "n_rows": 943,
-    "n_unique_ids": 943,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk11.csv",
+    "n_rows": 72515,
+    "n_unique_ids": 72515,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 11,
@@ -1316,9 +1316,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk12.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk12.csv",
+    "n_rows": 72326,
+    "n_unique_ids": 72326,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 12,
@@ -1331,9 +1331,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk13.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk13.csv",
+    "n_rows": 72006,
+    "n_unique_ids": 72006,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 13,
@@ -1346,9 +1346,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk14.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk14.csv",
+    "n_rows": 72234,
+    "n_unique_ids": 72234,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 14,
@@ -1361,9 +1361,9 @@
     ]
   },
   {
-    "filename": "colombia_hansen_grid_0p080_20260404_111846_loss_2021_2025_chunk15.csv",
-    "n_rows": 942,
-    "n_unique_ids": 942,
+    "filename": "colombia_hansen_grid_1km_20260513_133313_loss_2021_2025_chunk15.csv",
+    "n_rows": 72736,
+    "n_unique_ids": 72736,
     "n_cols": 8,
     "kind": "loss",
     "chunk_id": 15,

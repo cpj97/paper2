@@ -1,0 +1,6 @@
+mapping_name,mapping_family,support_name,aggregation,weight_column,treated_indicator_template,output_scale,description
+share_treated_neighbors_knn_k04,share_treated_neighbors,knn_k04,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 4 nearest neighbors that are treated in year t.
+share_treated_neighbors_knn_k08,share_treated_neighbors,knn_k08,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 8 nearest neighbors that are treated in year t.
+share_treated_neighbors_knn_k16,share_treated_neighbors,knn_k16,mean,binary_weight,treated_it_{treatment_key},"[0,1]",Share of the 16 nearest neighbors that are treated in year t.
+weighted_exposure_invdist_knn_k08_p1p0,inverse_distance_weighted_exposure,invdist_knn_k08_p1p0,weighted_mean,weight,treated_it_{treatment_key},"[0,1]",Inverse-distance exposure over knn_k08 with power=1 and row-standardized weights.
+weighted_exposure_invdist_knn_k16_p1p0,inverse_distance_weighted_exposure,invdist_knn_k16_p1p0,weighted_mean,weight,treated_it_{treatment_key},"[0,1]",Inverse-distance exposure over knn_k16 with power=1 and row-standardized weights.

@@ -1,0 +1,37 @@
+{
+  "panel_input_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\panel_treatment.parquet",
+  "grid_input_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\grid_geometry_1km.geojson",
+  "centroid_path": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_grid_centroids_1km.parquet",
+  "n_cells": 1160018,
+  "n_panel_rows": 29000450,
+  "year_min": 2001,
+  "year_max": 2025,
+  "radius_values_km": [],
+  "k_values": [
+    4,
+    8,
+    16
+  ],
+  "inverse_distance_specs": [
+    {
+      "support_name": "knn_k08",
+      "power": 1.0,
+      "min_distance_m": 100.0,
+      "row_standardize": true
+    },
+    {
+      "support_name": "knn_k16",
+      "power": 1.0,
+      "min_distance_m": 100.0,
+      "row_standardize": true
+    }
+  ],
+  "ring_bounds_km": [],
+  "weight_files": {
+    "knn_k04": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_knn_k04_edges_1km.parquet",
+    "knn_k08": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_knn_k08_edges_1km.parquet",
+    "knn_k16": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_knn_k16_edges_1km.parquet",
+    "invdist_knn_k08_p1p0": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_invdist_knn_k08_p1p0_edges_1km.parquet",
+    "invdist_knn_k16_p1p0": "C:\\Users\\cpedr\\OneDrive - Hertie School\\PhD\\Paper 2\\paper2\\data\\intermediate\\spatial_structure\\03_invdist_knn_k16_p1p0_edges_1km.parquet"
+  }
+}

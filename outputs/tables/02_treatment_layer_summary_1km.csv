@@ -1,0 +1,6 @@
+treatment_key,n_treated_cells,share_of_all_cells,first_treat_year_min,first_treat_year_max,n_cells_treated_before_panel_start,mean_max_overlap_share,source_path_or_asset
+afro,64655,0.055736204093384756,1996,2025,24856,0.890969841040078,C:\Users\cpedr\OneDrive - Hertie School\PhD\Paper 2\paper2\data\raw\boundaries\afro\Consejo_Comunitario_Titulado.shp
+campesino,23767,0.020488475178833433,1997,2025,6443,0.8603245848845715,C:\Users\cpedr\OneDrive - Hertie School\PhD\Paper 2\paper2\data\raw\boundaries\campesinos\Zonas_de_Reserva_Campesina_Constituida.shp
+indigena,367832,0.3170916313367551,1956,2025,150941,0.9355962610834164,C:\Users\cpedr\OneDrive - Hertie School\PhD\Paper 2\paper2\data\raw\boundaries\indigenas\Resguardo_Indigena_Formalizado.shp
+land_title_any,449572,0.38755605516466124,1956,2025,180156,,
+protected_area,226343,0.1951202481340807,1938,2025,122770,0.8917775339659743,C:\Users\cpedr\OneDrive - Hertie School\PhD\Paper 2\paper2\data\intermediate\wdpa_colombia_yearly_snapshots.geojson
