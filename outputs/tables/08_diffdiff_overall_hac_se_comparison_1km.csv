@@ -1,0 +1,2 @@
+att,se_traditional,se_spatial_hac_approx,se_ratio_hac_to_traditional,p_traditional,p_spatial_hac_approx,sig_traditional,sig_spatial_hac_approx,note
+-193.145718137772,23.24730456968899,25.90980007766212,1.1145292134832967,9.707799306036443e-17,9.017987963077999e-14,***,***,"Approximate HAC overall SE from marginal post-treatment ATT(g,t) HAC SEs; full cross-effect HAC covariance is not estimated here."

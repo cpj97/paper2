@@ -419,6 +419,18 @@ def hac_for_group_time_effects(
     kernel: str = "bartlett",
     max_pairs: int = 50_000_000,
 ) -> pd.DataFrame:
+    columns = [
+        "group",
+        "time",
+        "event_time",
+        "att_no_covariate_recomputed",
+        "spatial_hac_se",
+        "hac_n_units",
+        "hac_n_pairs_used",
+        "hac_truncated",
+        "hac_cutoff_km",
+        "hac_kernel",
+    ]
     rows = []
     for row in effects.itertuples(index=False):
         group_year = int(getattr(row, "group"))
@@ -463,7 +475,7 @@ def hac_for_group_time_effects(
                 "hac_kernel": kernel,
             }
         )
-    return pd.DataFrame(rows)
+    return pd.DataFrame(rows, columns=columns)
 
 
 def hac_for_hajek_ring_contrasts(

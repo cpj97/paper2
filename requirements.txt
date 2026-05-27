@@ -14,3 +14,4 @@ jupyterlab>=4.4.0
 scikit-learn>=1.6.0
 diff-diff>=3.3.2
 csdid>=0.2.9
+drdid>=1.1.6
