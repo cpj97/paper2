@@ -1,2 +1,5 @@
-covariate_set,overall_att,overall_se,overall_t,overall_p,ci_low,ci_high,significance
-none,-193.145718137772,23.24730456968899,-8.308305918166752,9.707799306036443e-17,-238.70959783199584,-147.58183844354818,***
+covariate_set,anticipation,overall_att,overall_n_cells
+baseline,0,-178.30508762056863,263
+anticipation1,1,-339.44416755192714,257
+dr_geography,0,-233.8675267101349,263
+dr_geography_anticipation1,1,-650.3868938984431,257
