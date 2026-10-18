@@ -1,0 +1,5 @@
+,current,A: STATUS_YR at first coverage,B: earliest STATUS_YR,C: A with expansions
+in-window treated cells,103488,85307,83816,103335
+pre-panel cells,122855,141036,142527,123008
+cells with a different year than current,0,51764,98315,47790
+cells with a later year (should be 0),0,0,0,0

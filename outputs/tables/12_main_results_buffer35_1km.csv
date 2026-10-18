@@ -1,0 +1,7 @@
+spec,estimator,att,se_hac,se_analytic,sig,pct_of_control_mean,ci_low,ci_high,engine,note
+baseline,Callaway-Sant'Anna (R did),-103.6,124.2,22.3,,-7.9,-347.1,139.8,R did,
+anticipation1,Callaway-Sant'Anna (R did),-337.0,180.1,29.6,.,-25.8,-690.0,16.0,R did,
+dr_geography,Callaway-Sant'Anna (R did),-125.2,270.5,63.7,,-9.6,-655.5,405.0,R did,
+dr_geography_anticipation1,Callaway-Sant'Anna (R did),-54.7,373.9,61.7,,-4.2,-787.6,678.2,R did,
+TWFE new PAs,TWFE (pyfixest),-389.1,154.1,18.8,*,-29.8,-691.2,-87.0,pyfixest,
+TWFE all PA cells,TWFE (pyfixest),-388.5,134.5,17.9,**,-29.7,-652.2,-124.9,pyfixest,

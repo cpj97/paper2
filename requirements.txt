@@ -15,3 +15,5 @@ scikit-learn>=1.6.0
 diff-diff>=3.3.2
 csdid>=0.2.9
 drdid>=1.1.6
+pyfixest>=0.30.0
+rasterio>=1.4

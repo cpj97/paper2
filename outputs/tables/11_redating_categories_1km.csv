@@ -1,0 +1,14 @@
+definition,category,cells,median shift (years),% of current in-window cells
+A: STATUS_YR at first coverage,unchanged (pre-panel),122855,0.0,118.7
+A: STATUS_YR at first coverage,unchanged (in window),51724,0.0,50.0
+A: STATUS_YR at first coverage,"re-dated, stays in window",33583,2.0,32.5
+A: STATUS_YR at first coverage,moves to pre-panel,18181,31.0,17.6
+B: earliest STATUS_YR,unchanged (pre-panel),90156,0.0,87.1
+B: earliest STATUS_YR,"re-dated, stays in window",45944,3.0,44.4
+B: earliest STATUS_YR,unchanged (in window),37872,0.0,36.6
+B: earliest STATUS_YR,pre-panel under both (re-dated),32699,11.0,31.6
+B: earliest STATUS_YR,moves to pre-panel,19672,31.0,19.0
+C: A with expansions,unchanged (pre-panel),122855,0.0,118.7
+C: A with expansions,unchanged (in window),55698,0.0,53.8
+C: A with expansions,"re-dated, stays in window",47637,2.0,46.0
+C: A with expansions,moves to pre-panel,153,30.0,0.1

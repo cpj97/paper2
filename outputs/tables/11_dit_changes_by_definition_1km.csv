@@ -1,0 +1,6 @@
+,A: STATUS_YR at first coverage,A: STATUS_YR at first coverage,B: earliest STATUS_YR,B: earliest STATUS_YR,C: A with expansions,C: A with expansions
+,2001-2025,2017-2025,2001-2025,2017-2025,2001-2025,2017-2025
+current D=1 cell-years,1205197.0,737516.0,1205197.0,737516.0,1205197.0,737516.0
+cell-years switching D 0->1,92201.0,69640.0,148295.0,68914.0,109095.0,94001.0
+switching as % of current D=1,7.7,9.4,12.3,9.3,9.1,12.7
+cell-years leaving the sample,454525.0,163629.0,491800.0,177048.0,3825.0,1377.0

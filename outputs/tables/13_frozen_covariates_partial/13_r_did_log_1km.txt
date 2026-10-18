@@ -1,0 +1,6 @@
+b35__baseline: ATT -103.6 SE 22.3 | n 368287 | 319 s | 0 warnings
+b35__dr_geography: ATT -33.0 SE 83.6 | n 368287 | 1328 s | 0 warnings
+b35__reg_covariates: ATT -309.3 SE 43.5 | n 368287 | 533 s | 0 warnings
+b35__reg_covariates_anticipation1: ATT -797.4 SE 56.7 | n 368287 | 458 s | 0 warnings
+b35__ipw: ATT -128.7 SE 80.4 | n 368287 | 947 s | 0 warnings
+b35__ipw_anticipation1: ATT -378.3 SE 82.2 | n 368287 | 976 s | 0 warnings

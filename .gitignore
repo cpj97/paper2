@@ -10,3 +10,10 @@ configs/
 
 # Large generated map exports
 outputs/maps/*.html
+
+# Local snapshots of earlier runs (contains files > 100 MB, too large for GitHub)
+archive/
+
+# Paper drafts are kept locally, not on GitHub
+paper/main.typ
+paper/sections/

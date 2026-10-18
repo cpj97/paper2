@@ -1,0 +1,9 @@
+model,treatment,buffer_km,coef,se_cell,p_cell,se_block35km,p_block35km,pct_of_control_mean,n_obs,n_cells,n_treated_cells,n_control_cells,sig_cell,sig_block,estimator
+new_nobuffer,Newly added PAs only,0,-353.3198968007,17.231788188182556,0.0,108.47943272880028,0.0011621613903556316,-21.005285179458706,25925250.0,1037010.0,103335.0,933675.0,***,**,TWFE OLS (pyfixest)
+new_buffer,Newly added PAs only,35,-389.0866329512046,18.76214665791551,0.0,153.54089282640285,0.011437410861821373,-29.781805158946675,9207175.0,368287.0,103335.0,264952.0,***,*,TWFE OLS (pyfixest)
+all_nobuffer,All PA cells,0,-357.1022581445068,17.078979006547662,0.0,105.8710032914836,0.0007702840277075129,-21.230151028786285,28998325.0,1159933.0,226258.0,933675.0,***,***,TWFE OLS (pyfixest)
+all_buffer,All PA cells,35,-388.5347990855425,17.92916204074865,0.0,133.8569464579141,0.003780457432011053,-29.739566214517765,12280250.0,491210.0,226258.0,264952.0,***,**,TWFE OLS (pyfixest)
+nb12 CS: baseline,Newly added PAs only,35,-103.645512310682,,,124.22462181673136,,,,,,,,,"Callaway-Sant'Anna (R did, exact spatial-HAC SE)"
+nb12 CS: anticipation1,Newly added PAs only,35,-337.014996045347,,,180.10135167669284,,,,,,,,.,"Callaway-Sant'Anna (R did, exact spatial-HAC SE)"
+nb12 CS: dr_geography,Newly added PAs only,35,-125.244150302374,,,270.5235361021791,,,,,,,,,"Callaway-Sant'Anna (R did, exact spatial-HAC SE)"
+nb12 CS: dr_geography_anticipation1,Newly added PAs only,35,-54.7192396940409,,,373.9365161296832,,,,,,,,,"Callaway-Sant'Anna (R did, exact spatial-HAC SE)"

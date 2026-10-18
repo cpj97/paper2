@@ -1,0 +1,119 @@
+site_id,name,status_first,status_last,snap_first,n_values,direction
+130,Sierra de la Macarena,1989,1971,2017,2,earlier
+132,Sierra Nevada de Santa Marta,1977,1964,2017,2,earlier
+134,Cordillera de los Picachos,1988,1977,2017,2,earlier
+135,Amacayacu,1988,1975,2017,2,earlier
+138,Farallones de Cali,1978,1968,2017,2,earlier
+141,Puracé,1977,1975,2017,2,earlier
+142,Los Katíos,1982,1974,2017,2,earlier
+143,Chingaza,1998,1977,2017,3,earlier
+147,Los Nevados,1974,1973,2017,2,earlier
+148,Las Orquídeas,1974,1973,2017,2,earlier
+150,Isla de Salamanca,1985,1964,2017,3,earlier
+152,Tayrona,1975,1964,2017,3,earlier
+153,Cueva de los Guácharos,1995,1960,2017,2,earlier
+2234,Los Corales del Rosario y de San Bernardo,1996,1977,2017,2,earlier
+10754,Gorgona,1995,1983,2017,3,earlier
+20002,Cahuinarí,1987,1986,2017,2,earlier
+100721,Río Nare,1971,1970,2017,2,earlier
+100723,Cuenca del Río Cravo Sur,1986,1985,2017,2,earlier
+100727,Las Cuencas Hidrográficas del Río Blanco y Quebrada Olivares,1992,1990,2017,2,earlier
+100735,Río San Francisco,1986,1981,2017,2,earlier
+100736,La Bolsa,1992,1990,2017,2,earlier
+100737,Ríos Chorrera y Concepción,1992,1991,2017,2,earlier
+100738,El Hortigal,1988,1987,2017,2,earlier
+100739,Páramo El Atravesado,1973,1972,2017,2,earlier
+100749,Río Tejo,1985,1984,2017,2,earlier
+100750,Río Algodonal,1985,1984,2017,2,earlier
+100751,Quebrada La Nona,1980,1979,2017,2,earlier
+100760,Cuenca Alta del Río Satocá,1992,1990,2017,2,earlier
+100761,Cuenca del Río Tame,1986,1985,2017,2,earlier
+100763,Cuenca Alta del Caño Vanguardia,1988,1987,2017,2,earlier
+100767,De la Cuenca Hidrográfica de los Ríos Escalerete y San Cipriano,1980,1979,2017,2,earlier
+303549,Utria,1987,1986,2017,2,earlier
+317059,Río Cali,1943,1938,2017,2,earlier
+317063,Ríos Blanco y Negro,1983,1982,2017,2,earlier
+555511937,Selva de Florencia,2005,2005,2017,2,earlier
+555511939,Serranía de los Yariguíes,2008,2005,2017,2,earlier
+555555703,La Cima I Cima II y Altamira Maupaz,2000,2000,2017,2,earlier
+555555704,Corazon California la Palma  y Soledad Potosí,2000,2000,2017,2,earlier
+555555705,Bellavista,2001,2000,2017,3,earlier
+555555706,La Estrella la Cabaña Dulima,2001,2001,2017,2,earlier
+555555707,La Tatacoa,2011,2008,2017,2,earlier
+555555708,Esmeralda,2000,2000,2017,2,earlier
+555555709,Serranía de Minas,2011,2006,2017,2,earlier
+555555710,La Suiza,2004,2004,2017,2,earlier
+555555714,Del Sistema Manglarico del Sector de la Boca de Guacamaya,2012,2008,2017,2,earlier
+555555722,El Toro,1999,1999,2017,2,earlier
+555555723,Vallecita,2001,2001,2017,2,earlier
+555555724,Las Mirlas,2000,2000,2017,2,earlier
+555555725,El Contento las Palmas,2006,2006,2017,2,earlier
+555555726,La Pradera,2001,2001,2017,2,earlier
+555555727,Cerrobravo,2002,2002,2017,2,earlier
+555555728,El Trebol,2004,2004,2017,2,earlier
+555555729,Las Damas,2000,2000,2017,2,earlier
+555555730,Uno,2000,2000,2017,2,earlier
+555555731,La Copa la Copita San José,1999,1999,2017,2,earlier
+555555732,La Esperanza,1999,1999,2017,2,earlier
+555555733,El Humedal y la Santísima Trinidad,2000,2000,2017,2,earlier
+555555734,Bremen Lote 16 y la Rinconada Lote 15,2002,2002,2017,2,earlier
+555555735,"San Cristobal Alto de la Motañuela, San Cristobal Alto de la Matañuela II, el Porvenir, Esperanza y Buenos Aires",2000,2000,2017,2,earlier
+555555736,"Puracé Porvenir las Violetas, Porvenir  I  Porvenir II",2000,2000,2017,2,earlier
+555555737,El Raizal Mesalina y la Gironda el Silencio,2001,2001,2017,2,earlier
+555555738,"El Retiro, la Cascada, el Mantel la Mesa la Meseta y la Isla el Durazno",2000,2000,2017,2,earlier
+555555739,"Olla Grande, la Esmeralda y el Nahir",2002,2002,2017,2,earlier
+555555740,Soledad las Nubes,2006,2006,2017,2,earlier
+555555741,La Gloria,1999,1999,2017,2,earlier
+555555749,"Jerico, Libano y Sebastopol",2011,2008,2017,2,earlier
+555555762,Río Anchicayá,1946,1943,2017,2,earlier
+555555770,De Bitaco,1973,1980,2017,2,later
+555555773,The Peak Regional Park,2011,2007,2017,2,earlier
+555555777,Serranía de las Quinchas,2011,2009,2017,2,earlier
+555555778,Laguna de Lomalinda,2001,2009,2017,3,later
+555555779,Jhonny Cay Regional Park,2011,2001,2017,2,earlier
+555555783,El Espino Corcovado,2013,2008,2017,2,earlier
+555555784,Montebello,2013,2008,2017,2,earlier
+555555785,Palosqui,2013,2008,2017,2,earlier
+555555790,Sisavita,2013,2008,2017,2,earlier
+555555791,Ucumarí,2011,1987,2017,3,earlier
+555555792,Vallelargo,2004,2004,2017,2,earlier
+555555796,Unidad Biogeográfica de Siscuncí Oceta,2011,2008,2017,2,earlier
+555555800,San Miguel de los Farallones,2011,2008,2017,2,earlier
+555555802,El Palmar y la Secreta,2000,2000,2017,2,earlier
+555555818,Kirpas Pinilla la Cuerera,2011,2007,2017,2,earlier
+555555820,Barbas  Bremen,2011,2006,2017,2,earlier
+555555823,Barbas Bremen,2011,2006,2017,2,earlier
+555555825,De la Cuenca Alta del Río  Quindío de Salento,2011,1998,2017,2,earlier
+555555826,Lago de Sochagota y la cuenca hidrográfica que lo alimenta,2011,1986,2017,2,earlier
+555555832,Complejo Cenagoso de Zarate Malibú y Veladero,2011,2007,2017,2,earlier
+555555844,Cuchilla Del San Juan,2011,2000,2017,2,earlier
+555555846,Cuchilla Jardin Tamesis,2011,2009,2017,2,earlier
+555555850,Sistema de Paramos y Bosques Altoandinos del Noroccidente Medio Antioqueño,2010,2007,2017,2,earlier
+555555853,Del Humedal San Silvestre,2011,2006,2017,2,earlier
+555555854,Serranía de los Yariguíes,2011,2005,2017,2,earlier
+555555855,Del Rio Minero y sus Zonas Aledañas,2011,2009,2017,2,earlier
+555555856,"DRMI de los Páramos de Guantiva y La Rusia, Bosques de Roble y sus Zonas aledañas",2011,2008,2017,2,earlier
+555555857,Embalse el Peñol y Cuenca Alta del Río Guatapé,2010,1985,2017,2,earlier
+555555862,Páramos y Bosques Altoandinos de Génova,2011,2008,2017,2,earlier
+555555866,Divisoria Valle de Aburra Rio Cauca,2009,2007,2017,2,earlier
+555555867,"Páramo de Cristales, Castillejo o Guachaneque",2012,2011,2017,2,earlier
+555555895,La Esperanza,2008,2007,2017,2,earlier
+555555902,Pantanillo,2013,2007,2017,2,earlier
+555555930,Los Chagualos,2009,2008,2017,2,earlier
+555555966,El Hato,2007,2011,2017,2,later
+555556029,Moralba,2009,2008,2017,2,earlier
+555592688,Miralindo,2014,2013,2017,2,earlier
+555592820,Alto del Insor,2013,2009,2017,2,earlier
+555592824,Bucaramanga,2013,1996,2017,3,earlier
+555592825,Humedales entre los Ríos Leon y Suriquí,2011,2009,2017,2,earlier
+555592833,Los Ceibotes,2013,1992,2017,2,earlier
+555592834,Los Besotes,2013,2008,2017,2,earlier
+555592837,Cuchilla de Peñas Blancas y del Subia,1993,1993,2017,2,earlier
+555636094,La Mansión,2017,2016,2018,2,earlier
+555636108,Mata de la Urama,2015,2007,2018,2,earlier
+555636145,La Selva,2014,2007,2018,2,earlier
+555636169,Laguna de Sonso o del Chircal,2015,1978,2018,2,earlier
+555636185,El Tinije,2015,2008,2018,2,earlier
+555697694,Cerro Chimayoy,2018,2019,2020,2,later
+555697727,Serranía La Lindosa - Angosturas II,2018,1987,2020,2,earlier
+555704244,Bosque La Liborina,2020,2019,2021,2,earlier
